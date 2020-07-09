@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4046a55-02a7-4b46-a929-eacab81ef2f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X77LW6rMEkvDDm8ZbYn2Q0ZE0L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fecg_detective" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/fecg_detective.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4046a55-02a7-4b46-a929-eacab81ef2f1" name="Default Changelist" comment="" />
+      <created>1580385223695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580385223695</updated>
+      <workItem from="1592589536643" duration="1309000" />
+      <workItem from="1592680982858" duration="829000" />
+      <workItem from="1593002136776" duration="985000" />
+      <workItem from="1593062559085" duration="2193000" />
+      <workItem from="1593188053826" duration="973000" />
+      <workItem from="1593189699804" duration="1363000" />
+      <workItem from="1593624338086" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593096796837">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="183" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593096796837" />
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom" timestamp="1593189683860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593189683860" />
+    <state width="1396" height="244" key="GridCell.Tab.0.center" timestamp="1593189683859">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593189683859" />
+    <state width="1396" height="244" key="GridCell.Tab.0.left" timestamp="1593189683859">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593189683859" />
+    <state width="1396" height="244" key="GridCell.Tab.0.right" timestamp="1593189683859">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593189683859" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/venv$ecg_figure.coverage" NAME="fecg_detective Coverage Results" MODIFIED="1593096813858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/venv$fecg_detective.coverage" NAME="fecg_detective Coverage Results" MODIFIED="1593188073040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+  </component>
+</project>
