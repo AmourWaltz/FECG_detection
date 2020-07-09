@@ -1,1 +1,5 @@
 FECG_2013DB/
+*.csv
+*.dat
+*.atr
+*.fqrs
